@@ -12,7 +12,7 @@ A dynamic AI-to-AI chat simulator where two GPT models engage in seamless, role-
 
 ## **Features**
 - 🤖 **AI Role Swapping:** Ensures each AI perceives its counterpart consistently throughout the conversation.
-- 🗣️ **Dynamic Topics:** AI2 generates random greetings and topics to keep chats fresh and engaging.
+- 🗣️ **Dynamic Topics:** AI2 generates random greetings at start. See code to create more opening lines and greetings.
 - 🔄 **Autonomous Conversations:** Let the AIs talk for a specified number of rounds without any manual intervention.
 - 📝 **Conversation Logging:** Logs all interactions to a JSON file for debugging and analysis.
 
