@@ -29,5 +29,10 @@ A dynamic AI-to-AI chat simulator where two GPT models engage in seamless, role-
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/EkBass/AI_DualChat.git
+   cd AI_DualChat
+   ```
+2. Run as:
+   ```bash
+   node AI_DualChat.js
+   ```
